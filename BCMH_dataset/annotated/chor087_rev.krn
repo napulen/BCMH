@@ -1,0 +1,81 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Du, o sch&ouml;nes Weltgeb&auml;ude
+!!!SCT:	BWV 56/5
+!!!PC#:	87
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*c:dor	*c:dor	*c:dor	*c:dor	*c:dir
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100	*MM100
+=1-	=1-	=1-	=1-	=1-
+.	4r	4ry	4ry	4r
+i	2C	2G	2e-	2cc
+v6	4BB-	4B-	4d	4g
+=2	=2	=2	=2	=2
+g:viio6	4AA	4c	4f#	4cc
+viio7	4F#	4e-	4a	4cc
+i	4G	4d	4g	4b-
+ii%65	4C	4e-	4g	4a
+=3	=3	=3	=3	=3
+V7	2D	2c	2f#	2a
+I;	2GG;	2Bn;	2d;	2g;
+=4	=4	=4	=4	=4
+.	4r	4ry	4ry	4r
+VI	2AA-	2c	2c	2e-
+i6	4E-	4G	4c	4g
+=5	=5	=5	=5	=5
+iio6	4F	4A-	4d	4f
+viio7/V	4F#	4An	4c	4e-
+V(64)	4G	4G	4c	4e-
+V7	4GG	4F	4B	4d
+=6	=6	=6	=6	=6
+i;	1C;	1E-;	1G;	1c;
+=7:|!	=7:|!	=7:|!	=7:|!	=7:|!
+i	2C	2G	2c	2e-
+E-:V2	4AA-	4B-	4d	4f
+I6	4GG	4B-	4e-	4g
+=8	=8	=8	=8	=8
+ii	4FF	4c	4f	4a-
+V65	4D	4B-	4f	4a-
+I	4E-	4B-	4e-	4g
+vi	4C	4c	4e-	4g
+=9	=9	=9	=9	=9
+ii65	4AA-	4c	4e-	4f
+V7	4BB-	4A-	4d	4f
+I;	2EE-;	2G;	2B-;	2e-;
+=10	=10	=10	=10	=10
+I	4E-	4B-	4e-	4g
+viio6/V	4C	4c	4e-	4an
+V6	4D	4B-	4f	4b-
+I	4E-	4B-	4e-	4g
+=11	=11	=11	=11	=11
+IV	4AA-	4c	4e-	4cc
+c:V65/V	4FF#	4An	4d	4cc
+V;	2GG;	2G;	2d;	2bn;
+=12	=12	=12	=12	=12
+i6	4E-	4G	4g	4cc
+i	4C	4c	4g	4ee-
+ii%65	8FL	8cL	8a-L	8ddL
+V	8GJ	8BnJ	8gJ	8ddJ
+iv6	4A-	4c	4f	4cc
+=13	=13	=13	=13	=13
+V(64)	4G	4e-	4g	4cc
+V	4GG	4d	4g	4bn
+I;	2C;	2en;	2g;	2cc;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

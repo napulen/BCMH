@@ -1,0 +1,65 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	O Traurigkeit, o Herzeleid
+!!!SCT:	BWV 404
+!!!PC#:	57
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]
+*a:	*a:	*a:	*a:	*a:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100	*MM100
+V	4E	4B	4g#	4ee
+=1	=1	=1	=1	=1
+i	4A	4A	4e	4cc
+viio43/V	4AA	4F#	4d#	4cc
+V;	4E;	4G#;	4e;	4b;
+V2	4DnX	4B	4e	4g#
+=2	=2	=2	=2	=2
+i6	4C	4c	4e	4a
+iv6	4FnX	4A	4dnX	4a
+V;	4E;	4B;	4e;	4g#;
+V	4E	4B	4g#X	4ee
+=3	=3	=3	=3	=3
+i	4A	4c	4a	4ee
+V6	4G#	4B	4b	4ee
+VI6	8AL	8cL	8aL	8ffL
+C:vii%7	8BJ	8dJ	8aJ	8ffJ
+I	4c	4e	4gnX	4ee
+=4	=4	=4	=4	=4
+V65/V	4F#	4c	4a	4dd
+V7	4GnX	4B	4f	4dd
+I;	2C;	2c;	2e;	2cc;
+=5	=5	=5	=5	=5
+V	4G	4d	4g	4b
+IV6	4A	4c	4f	4cc
+V6	4B	4g	4d	4dd
+I	4c	4G	4cc	4ee
+=6	=6	=6	=6	=6
+a:V65	4G#	4B	4b	4dd
+i	4A	4e	4a	4cc
+V;	2E;	2e;	2g#;	2b;
+=7	=7	=7	=7	=7
+vi%7	4F#	4e	4e	4a
+V65	4G#	4d	4e	4b
+i	4A	4c	4e	4cc
+iv6	4F	4A	4a	4dd
+=8	=8	=8	=8	=8
+ii%65	4D	4A	4f	4b
+V7	4E	4G#	4d	4b
+i;	2AA;	2E;	2c;	2a;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

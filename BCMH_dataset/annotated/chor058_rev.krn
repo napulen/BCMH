@@ -1,0 +1,131 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Herzlich lieb hab ich dich, o Herr
+!!!SCT:	BWV 174/5
+!!!PC#:	58
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*D:	*D:	*D:	*D:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100	*MM100
+I	4D	4A	4f#	4dd
+=1	=1	=1	=1	=1
+V	4AA	4c#	4e	4cc#
+IV6	4BB	4d	4g	4b
+V6	4C#	4e	4e	4a
+I	4D	4A	4d	4f#
+=2	=2	=2	=2	=2
+IV	4GG	4G	4d	4b
+IV6	4BB	4G	4d	4b
+I;	4D;	4F#;	4d;	4a;
+vi	8BBL	8F#L	8f#L	8ddL
+f#:viio43	8BBJ	8G#J	8e#J	8ddJ
+=3	=3	=3	=3	=3
+i	4F#	4A	4f#	4cc#
+bII	4GnX	4B	4d	4b
+i6	4A	4c#	4f#	4a
+bII6	8BL	8dL	8dL	8gL
+i6	8AJ	8c#J	8f#J	8f#J
+=4	=4	=4	=4	=4
+ii%7	4G#	4B	4f#	4b
+V7	4C#	4c#	4e#	4b
+i;	4F#;	4c#;	4f#;	4a;
+D:I	4D	4d	4f#	4a
+=5	=5	=5	=5	=5
+IV	4G	4B	4d	4b
+V7	4A	4e	4g	4cc#
+vi	4B	4d	4f#	4dd
+I64	8AL	8dL	8aL	8ff#L
+IV7	8GJ	8dJ	8bJ	8ff#J
+=6	=6	=6	=6	=6
+V7	2AA	2c#	2g	2ee
+I;	4D;	4A;	4f#;	4dd;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B
+I	4d	4f#	4a	4dd
+=7	=7	=7	=7	=7
+IV6	4B	4d	4g	4dd
+V65/vi	4A#	4c#	4f#	4ee
+vi	4B	4B	4f#	4dd
+A:V65	4G#	4d	4e	4b
+=8	=8	=8	=8	=8
+V7	4E	4G#	4e	4dd
+V65	4G#X	4B	4e	4dd
+I;	4A;	4A;	4e;	4cc#;
+D:V2	4G	4A	4e	4cc#
+=9	=9	=9	=9	=9
+I6	4F#	4A	4f#	4dd
+V65	4C#	4A	4g	4ee
+I	4D	4A	4f#	4dd
+ii	8EL	8GL	8eL	8bL
+viio6	8EJ	8GJ	8eJ	8cc#J
+=10	=10	=10	=10	=10
+vi	4BB	4F#	4d	4dd
+vi6	4D	4B	4f#	4dd
+V/vi;	4F#;	4A#;	4f#;	4cc#;
+V6/ii	4D#	4B	4f#	4ff#
+=11	=11	=11	=11	=11
+ii	4E	4B	4e	4gg
+V	4AnX	4c#	4e	4ee
+iii	4F#	4c#	4a	4ff#
+vi	4B	4dnX	4f#	4dd
+=12	=12	=12	=12	=12
+V65/V	4G#	4B	4e	4dd
+V	4A	4A	4e	4cc#
+I;	4D;	4A;	4f#;	4dd;
+viio6	4E	4e	4g	4cc#
+=13	=13	=13	=13	=13
+I6	8F#L	8AL	8f#L	8ddL
+A:vii%7	8G#J	8BJ	8f#J	8ddJ
+I	4A	4c#	4e	4cc#
+viio7/vi	4E#	4d	4g#	4b
+vi	4F#	4c#	4f#	4a
+=14	=14	=14	=14	=14
+V65/V	4D#	4B	4f#	4a
+V	4E	4B	4e	4g#
+I;	4AA;	4c#;	4e;	4a;
+IV	4D	4A	4dd	4ff#
+=15	=15	=15	=15	=15
+b:viio6	4C#	4c#	4a#	4ee
+i	4BB	4F#	4b	4dd
+V;	4F#;	4f#;	4a#;	4cc#;
+V65	4A#	4e	4cc#	4ff#
+=16	=16	=16	=16	=16
+VI6	4B	4d	4b	4gg
+D:V6	4c#	4e	4anX	4ee
+I	4d	4d	4a	8ff#L
+I6	4F#	4d	4a	4dd
+=17	=17	=17	=17	=17
+b:IV65	4G#	4B	4e	4dd
+V6	4A#	4c#	4f#	4cc#
+i;	4B;	4B;	4f#;	4dd;
+D:I6	8F#L	8dL	8anXL	8ddL
+V65/IV	8F#J	8cJ	8aJ	8ddJ
+=18	=18	=18	=18	=18
+IV	4GnX	4B	4g	4dd
+IV6	4B	4B	4g	4dd
+V65	4C#	4A	4g	4ee
+I	4D	4A	4f#	4dd
+=19	=19	=19	=19	=19
+V(54)	4A	4A	4e	4dd
+V	4AA	4A	4e	4cc#
+I;	4D;	4A;	4f#;	4dd;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

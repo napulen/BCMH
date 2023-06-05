@@ -1,0 +1,78 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Gott des Himmels und der Erden
+!!!SCT:	BWV 248/53
+!!!PC#:	35
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*A:	*A:	*A:	*A:	*A:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100	*MM100
+=1-	=1-	=1-	=1-	=1-
+I	4A	4c#	4e	4a
+V6	4G#	4B	4e	4b
+vi	4F#	4A	4a	4cc#
+I6	8C#L	8c#L	8aL	8eeL
+V43	8BBJ	8dJ	8g#J	8eeJ
+=2	=2	=2	=2	=2
+I65	8C#L	8eL	8g#L	8aL
+E:V65	8D#J	8BJ	4f#J	8aJ
+I	4E	4B	4e	4g#
+V7	4BB	4A	4d#	4f#
+I;	4E;	4G#;	4B;	4e;
+=3	=3	=3	=3	=3
+A:ii	4BB	4BnX	4d	4f#
+viio6	8BL	8dL	8BL	8g#L
+V2	8DJ	8eJ	8BJ	8g#
+I6	4c#	4A	4e	4a
+V6	4G#	4E	4e	4b
+=4	=4	=4	=4	=4
+I	8AL	8AL	8eL	8cc#L
+IV	8DJ	8AJ	8f#J	8ddJ
+V	4E	4G#	4e	4b
+I;	2AA;	2c#;	2e;	2a;
+=5:|!	=5:|!	=5:|!	=5:|!	=5:|!
+*>B	*>B	*>B	*>B	*>B
+I	4A	4e	4a	4cc#
+vi	8F#L	8eL	8aL	8cc#L
+vii%65	8F#J	8d#J	8aJ	8cc#J
+V6	4G#	4e	4e	4b
+iii6	4E	4c#	4g#	4cc#
+=6	=6	=6	=6	=6
+IV6	8F#L	8AL	8f#L	8ddL
+vii%7	8G#J	8BJ	8f#J	8ddJ
+I	8AL	8c#L	8eL	8cc#L
+V2/V	8AJ	8d#J	8f#J	8bJ
+V	4E	4e	4g#	4b
+V;	4E;	4e;	4g#;	4b;
+=7	=7	=7	=7	=7
+V2/ii	8EL	8A#L	8c#L	8f#L
+ii6	8DnXJ	8BJ	8dnXJ	8f#J
+V64	4BB	4B	4e	4g#
+I6	8C#L	8AL	8eL	8aL
+vi	8F#J	8AJ	8c#J	8aJ
+ii65	4D	4A	4f#	4b
+=8	=8	=8	=8	=8
+V(64)	4E	4A	4e	4cc#
+V7	4E	4d	4e	4b
+I	4AA	4c#	4e	4a
+I;	4AA;	4c#;	4e;	4a;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

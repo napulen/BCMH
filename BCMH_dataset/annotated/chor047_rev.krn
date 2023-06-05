@@ -1,0 +1,88 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Vater unser im Himmelreich
+!!!SCT:	BWV 245/5 & 416
+!!!PC#:	47
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*d:	*d:	*d:	*d:	*d:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100	*MM100
+i	4D	4d	4f	4a
+=1	=1	=1	=1	=1
+V6	4C#	4A	4e	4a
+i	4D	4A	4d	4f
+viio6	4E	4G	4c#	4g
+i6	4F	4d	4d	4a
+=2	=2	=2	=2	=2
+V(64)	4A	4d	4f	4f
+V	4AA	4A	4c#	4e
+i;	4D;	4F;	4A;	4d;
+i	4D	4d	4f	4a
+=3	=3	=3	=3	=3
+v6	4C	4A	4e	4a
+iv6	4BB-	4B-	4d	4g
+v	4AA	4c	4e	4cc
+III	4F	4c	4f	4a
+=4	=4	=4	=4	=4
+VI	4B-	4d	4f	4f
+ii%43	4B-	4d	4e	4g
+V;	4A;	4c#;	4e;	4a;
+v	4A	4c	4e	4a
+=5	=5	=5	=5	=5
+VI	4F	4c	4a	4cc
+V2/VII	8FL	8BL	8gL	8ddL
+viio6	8EJ	8c#J	8gJ	8eeJ
+i	4D	4d	4f	4ff
+iio6	4G	4B-	4g	4ee
+=6	=6	=6	=6	=6
+viio/V	4G#	4BnX	4f	4dd
+V	4A	4A	4e	4cc#
+i;	4D;	4A;	4f;	4dd;
+C:V7	4G	4B	4f	4dd
+=7	=7	=7	=7	=7
+vi6	4C	4A	4e	4ee
+a:viio6	4BBnX	4G#	4b	4dd
+i	4AA	4A	4e	4cc
+V7	4E	4G#	4d	4b
+=8	=8	=8	=8	=8
+VI	4F	4A	4c	4a
+V	4E	4B	4e	4g#
+i;	4AA;	4c;	4e;	4a;
+C:V	8GnXL	8BL	8gL	8ddL
+V2	8FJ	8BJ	8gJ	8ddJ
+=9	=9	=9	=9	=9
+I6	4E	4c	4g	4cc
+viio6	4D	4d	4f	4b
+I	4C	4e	4g	4cc
+ii	4D	4d	4f	4a
+=10	=10	=10	=10	=10
+F:IV7	4BB-X	4d	4f	4a
+V7	4C	4B-X	4e	4g
+I;	4F;	4A;	4c;	4f;
+g:V6	4F#	4A	4d	4a
+=11	=11	=11	=11	=11
+i	4G	4G	4d	4b-
+a:V65	4C#	4E	4e	4g
+i	4D	4A	4d	4f
+iv6	4BB-	4G	4d	4g
+=12	=12	=12	=12	=12
+viio7/V	4GG#	4B	4d	4f
+V7	4AA	4G	4c#	4e
+I;	4D;	4F#;	4A;	4d;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

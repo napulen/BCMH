@@ -1,0 +1,84 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Ich freue mich in dir
+!!!SCT:	BWV 133/6
+!!!PC#:	60
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*D:	*D:	*D:	*D:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100	*MM100
+I	8DL	8AL	8dL	8f#L
+V43	8EJ	8AJ	8c#J	8gJ
+=1	=1	=1	=1	=1
+I6	4F#	4A	4d	4a
+IV	4G	4G	4d	4b
+V(64)	4A	4F#	4d	4a
+V7	4AA	4A	4c#	4g
+=2	=2	=2	=2	=2
+I;	2D;	2A;	2d;	2f#;
+.	4r	4ry	4ry	4r
+I	4D	4A	4f#	4a
+=3	=3	=3	=3	=3
+b:IV2	4D	4e	4g#	4b
+viio6	4C#	4e	4a#	4cc#
+i	4BB	4f#	4b	4dd
+i6	4D	4B	4f#	4dd
+=4	=4	=4	=4	=4
+V	4F#	4A#	4f#	4cc#
+V7	4F#	4A#	4e	4cc#
+i;	4BB;	4B;	4d;	4b;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B
+A:V65	4G#	4B	4e	4dd
+=5	=5	=5	=5	=5
+I	4AnXL	4AnX	4e	4cc#
+IV6	4F#	4A	4f#	4dd
+ii65	4D	4A	4f#	4b
+V	4E	4G#X	4e	4b
+=6	=6	=6	=6	=6
+I;	2.AA;	2.c#;	2.e;	2.a;
+I	4A	4c#	4e	4a
+=7	=7	=7	=7	=7
+V6	4G#	4B	4e	4b
+iii6	4E	4e	4g#	4cc#
+IV6	4F#	4d	4a	4dd
+V65	4G#	4B	4e	4dd
+=8	=8	=8	=8	=8
+I;	2.A;	2.A;	2.e;	2.cc#;
+D:V2	4GnX	4c#	4e	4a
+=9	=9	=9	=9	=9
+I6	4F#	4d	4f#	4a
+ii	4E	4G	4g	4b
+V6	4C#	4A	4e	4a
+V7	4AA	4c#	4e	4g
+=10	=10	=10	=10	=10
+vi;	2BB;	2B;	2d;	2f#;
+.	4r	4ry	4ry	4r
+I6	4F#	4A	4d	4a
+=11	=11	=11	=11	=11
+IV	4G	4G	4d	4b
+V65/V	4G#	4B	4e	4dd
+V(54)	4A	4A	4e	4dd
+V7	4AA	4A	4gnX	4cc#
+=12	=12	=12	=12	=12
+I;	2.D;	2.A;	2.f#;	2.dd;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

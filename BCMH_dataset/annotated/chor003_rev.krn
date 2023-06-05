@@ -1,0 +1,88 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Ach Gott, vom Himmel sieh darein
+!!!OTL@EN:	Oh God, look down from Heaven
+!!!OPR: Cantata BWV 153: Schau, lieber Gott, wie meine Feind
+!!!SCT:	BWV 153/1
+!!!PC#:	3
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*.	*ICvox	*ICvox	*ICvox	*ICvox
+*.	*Ibass	*Itenor	*Ialto	*Isoprn
+*.	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A
+*.	*	*oclefC4	*oclefC3	*oclefC1
+*.	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]
+*a:dor	*a:dor	*a:dor	*a:dor	*a:dor
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*.
+*MM100	*MM100	*MM100	*MM100	*0
+a:V	4E	4e	4g#	4b
+=1	=1	=1	=1	=1
+i	4A	4e	4a	4cc
+viio6	4B	4d	4g#	4b
+i6	4c	4e	4a	4a
+V43	8BL	8dL	8g#L	8eeL	
+i	8AJ	8cJ	8aJ	8eeJ
+=2	=2	=2	=2	=2
+V65	4G#	4B	4b	4dd
+i	4A	4c	4e	4cc
+V;	4E;	4e;	4g#;	4b;
+viio65	4BB	4f	4g#	4dd
+=3	=3	=3	=3	=3
+i6	4C	4e	4a	4cc
+V	4E	4d	4g#	4b
+VI	4F	4c	4a	4a
+iio6	4D	4d	4f	4b
+=4	=4	=4	=4	=4
+V(64)	4E	4A	4e	4cc
+V	4E	4G#	4e	4b
+i;	4AA;	4c;	4e;	4a;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B
+G:V6	4F#	4A	4d	4a
+=5	=5	=5	=5	=5
+I	8GL	8GL	8dL	8bL
+e:viio6	8F#J	8AJ	8d#J	8aJ
+i	4E	4B	4e	4g
+V	8BL	8BL	8d#L	8f#L
+V2	8AJ	8BJ	8d#J	8f#J
+i6	8GL	8BL	8eL	8eL
+viio6	8F#J	8AJ	8d#J	8f#J	
+=6	=6	=6	=6	=6
+i	8EL	4B	4e	4g
+iv6	4C	4c	4e	4a
+V;	4BB;	4F#;	4d#;	4b;
+i	4E	4e	4B	4g
+=7	=7	=7	=7	=7
+VI	4F	4c	4A	4a
+i6	4C	4e	4a	4cc
+V	4E	4e	4g#	4b
+i	4AA	4e	4a	4cc
+=8	=8	=8	=8	=8
+i6	4C	4c	4e	4a
+V	4E	4B	4e	4g#
+i;	4AA;	4c;	4e;	4a;
+i	4A	4c	4e	4a
+=9	=9	=9	=9	=9
+V6	4G#	4B	4e	4ee
+i	4A	4A	4e	4cc
+iv6	4F	4A	4f	4dd
+viio7/IV	4C#	4B-	4g	4ee
+=10	=10	=10	=10	=10
+IV	4D	4A	4f#	4dd
+viio7/V	4D#	4F#	4a	4cc
+V;	4E;	4G#;	4e;	4b;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!PC#2: 7 (Budapest/Imre, 1982) with first part written with repeats.
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

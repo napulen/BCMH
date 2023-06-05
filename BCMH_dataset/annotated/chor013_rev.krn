@@ -1,0 +1,112 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Allein zu dir, Herr Jesu Christ
+!!!SCT:	BWV 33/6
+!!!PC#:	13
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]
+*a:	*a:	*a:	*a:	*a:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+**MM100	*MM100	*MM100	*MM100	*MM100
+i	4A	4A	4e	4cc
+=1	=1	=1	=1	=1
+C:I6	4E	4c	4e	4g
+IV	4F	4A	4c	4a
+I6	4E	4G	4e	4cc
+I	4C	4G	4g	4ee
+=2	=2	=2	=2	=2
+V	4G	4B	4g	4dd
+ii7/V	8AL	8cL	8gL	8ccL
+V43/V	8AJ	8dJ	8f#J	8ccJ
+V(64)	4G	4e	4g	4cc
+V	4G	4d	4g	4b
+=3	=3	=3	=3	=3
+I;	2C;	2e;	2g;	2cc;
+.	4r	4r	4r	4r
+I	4C	4c	4g	4ee
+=4	=4	=4	=4	=4
+V7	4G	4B	4f	4dd
+vi	4A	4A	4e	4cc
+a:v	4E	4G	4e	4b
+v2	4D	4B	4e	4g	
+=5	=5	=5	=5	=5
+i6	4C	4c	4e	4a
+viio6	8BL	8dL	8g#L	8bL
+i	8AJ	8eJ	8aJ	8ccJ
+viio7	4G#	4fnXL	4b	4dd
+i	4A	4e	4a	4cc
+=6	=6	=6	=6	=6
+iv7	4D	4f	4a	4cc
+V7	4E	4d	4g#	4b
+i;	4AA;	4c;	4e;	4a;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B
+i	4A	4c	4a	4ee
+=7	=7	=7	=7	=7
+iv7	4D	4c	4a	4ff
+iv6	4F	4A	4a	4dd
+V7	4E	4B	4g#	4dd
+i	4A	4c	4e	4cc
+=8	=8	=8	=8	=8
+iv6	4F	4A	4a	4dd
+V65/iv	4C#	4A	4g	4ee
+iv;	4D;	4d;	4f;	4a;
+V6	4G#	4B	4e	4ee
+=9	=9	=9	=9	=9
+VI6	4A	4c	4a	4ff
+V6/III	4B	4d	4g	4dd
+III	4c	4c	4g	4ee
+III6	4E	4c	4g	4cc
+=10	=10	=10	=10	=10
+IV65	4F#	4c	4a	4dd
+V6	4G#	4B	4b	4ee
+i;	4A;	4c;	4e;	4a;
+G:IV6	4E	4e	4gnX	4cc
+=11	=11	=11	=11	=11
+I	4G	4d	4g	4b
+e:IV6	4C#	4e	4e	4a
+i	4E	4B	4e	4g
+d:V	4AA	4c#X	4e	4a
+=12	=12	=12	=12	=12
+i	4DnX	4A	4d	4f
+i	4D	4A	4d	4f
+V;	4A;	4A;	4c#;	4e;
+C:IV	4F	4A	4c	4a
+=13	=13	=13	=13	=13
+V2	4F	4B	4d	4g
+I6	4E	4G	4g	4cc
+I6	4E	4G	4e	4cc
+V	4G	4G	4d	4b
+=14	=14	=14	=14	=14
+I;	4C;	4G;	4e;	4cc;
+I	4c	4e	4e	4g
+a:IV2	4c	4d	4f#	4a
+viio6	4B	4d	4g#	4b
+=15	=15	=15	=15	=15
+i	4A	4e	4a	4cc
+i	4A	4c	4e	4ee
+iv6	4F	4A	4a	4dd
+i64	4E	4c	4a	4cc
+=16	=16	=16	=16	=16
+ii%65	4D	4f	4a	4b
+V7	4E	4d	4g#	4b
+I;	4AA;	4c#;	4e;	4a;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

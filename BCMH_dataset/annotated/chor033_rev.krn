@@ -1,0 +1,82 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Herr, ich habe mi&szlig;gehandelt
+!!!SCT:	BWV 330
+!!!PC#:	33
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]
+*a:	*a:	*a:	*a:	*a:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100	*MM100
+=1-	=1-	=1-	=1-	=1-
+i	4AA	4c	4e	4a
+i6	8CL	8AL	8cL	8eL
+IV7	8DJ	8AJ	8cJ	8f#J
+V	4E	4E	4B	4g#
+IV6	4F#	4d	4A	4a
+=2	=2	=2	=2	=2
+V6	4G#	4B	4e	4b
+i	8AL	8AL	8eL	8ccL
+ii%65	8DJ	8AJ	8fnXJ	8bJ
+V	4E	4G#	4e	4b
+i;	4AA;	4c;	4e;	4a;
+=3	=3	=3	=3	=3
+i	4AA	4e	4a	4cc
+ii%2	8AL	8dL	8fL	8bL
+V65	8G#J	8dJ	8eJ	8bJ
+i	8AL	8cL	8eL	8aL
+VI	8FJ	8cJ	8aJ	8aJ
+ii%65	8D	8FL	8aL	8bL
+V	8EJ	8EJ	8g#	8bJ
+=4	=4	=4	=4	=4
+i	4AA	4E	4a	4cc
+iv6	4FF	4A	4a	4dd
+V;	2EE;	2B;	2g#;	2ee;
+=5:|!	=5:|!	=5:|!	=5:|!	=5:|!
+*>B	*>B	*>B	*>B	*>B
+i	4AA	4c	4a	4ee
+iv6	4F	4d	4a	4ff
+C:I6	4E	4c	4g	4gg
+IV	8FL	8cL	8aL	8ccL
+I6	8EJ	8cJ	8gJ	8ccJ
+=6	=6	=6	=6	=6
+ii7	8DL	8cL	8aL	8ffL
+viio6	8DJ	8BJ	8ddJ	8ffJ
+I6	4E	4c	4g	4ee
+V7	4GG	4B	4f	4dd
+I;	4C;	4G;	4e;	4cc;
+=7	=7	=7	=7	=7
+V	4G	4B	4g	4dd
+V43	4D	4f	4b	4dd
+I7	8CL	8eL	8bL	8eeL
+V2/vi	8DJ	8eJ	8g#J	8eeJ
+a:i6	4C	4e	4a	4a
+=8	=8	=8	=8	=8
+iv43	8AAL	8cL	8fL	8ddL
+V65	8GG#J	8BJ	8eJ	8ddJ
+i	8AA	8AL	8eL	8ccL
+ii%65	8DJ	8AJ	8fJ	8bJ
+V(54)	4E	4A	4e	4b	
+V7	4EE	4G#	4d	4b
+=9	=9	=9	=9	=9
+I;	2.AA;	2.E;	2.c#;	2.a;
+.	4r	4ry	4ry	4r
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

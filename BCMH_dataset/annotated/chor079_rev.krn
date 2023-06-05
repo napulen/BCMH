@@ -1,0 +1,104 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Heut triumphieret Gottes Sohn
+!!!SCT:	BWV 342
+!!!PC#:	79
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]
+*a:	*a:	*a:	*a:	*a:
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*MM100	*MM100	*MM100	*MM100	*MM100
+=1-	=1-	=1-	=1-	=1-
+i	4A	4c	4e	4cc
+C:I6	4E	4c	4g	4cc
+V	4G	4B	4g	4dd
+=2	=2	=2	=2	=2
+I	2C	2c	2g	2ee
+ii	4D	4A	4f	4dd
+=3	=3	=3	=3	=3
+I6	4E	4G	4e	4cc
+ii65	4F	4A	4d	4cc
+V	4G	4G	4d	4b
+=4	=4	=4	=4	=4
+I;	2.C;	2.G;	2.e;	2.cc;
+=5	=5	=5	=5	=5
+IV	4F	4A	4f	4cc
+V6	4E	4G	4g	4cc
+IV	4F	4A	4f	4cc
+=6	=6	=6	=6	=6
+a:viio65	4BB	4G#	4f	4dd
+i6	4C	4A	4e	4cc
+viio43	4D	4B	4d	4b
+=7	=7	=7	=7	=7
+i6	4C	4c	4e	4a
+ii%65	4D	4B	4f	4a
+V	4E	4B	4e	4g#
+=8	=8	=8	=8	=8
+i;	2AA;	2c;	2e;	2a;
+V	4E	4G#	4e	4b
+=9	=9	=9	=9	=9
+i	2A	2A	2e	2cc
+V/III	4GnX	4B	4g	4dd
+=10	=10	=10	=10	=10
+III	2c	2c	2g	2ee
+VII6	4B	4d	4g	4gg
+=11	=11	=11	=11	=11
+VI6	4A	4c	4cc	4ff
+v6	4G	4e	4b	4ee
+iv6	4F	4f	4a	4dd
+=12	=12	=12	=12	=12
+V;	2.E;	2.B;	2.g#;	2.ee;
+=13	=13	=13	=13	=13
+i	4A	4c	4a	4ee
+C:I6	4E	4c	4gnX	4ee
+I	4C	4c	4g	4ee
+=14	=14	=14	=14	=14
+V	4G	4d	4b	4dd
+V6	4B	8dL	4g	4dd
+a:iv6	4A	4f	4a	4dd
+=15	=15	=15	=15	=15
+V65	2G#	2e	2b	2dd
+i	4A	4e	4a	4cc
+=16	=16	=16	=16	=16
+V;	2.E;	2.e;	2.g#;	2.b;
+=17	=17	=17	=17	=17
+v	2E	2e	2gnXL	2b
+V2/iv	4G	4A	4e	4cc#
+=18	=18	=18	=18	=18
+iv6	4F	4A	4d	4dd
+i64	4E	4A	4e	4ccnX
+viio43	4D	4G#	4f	4b
+=19	=19	=19	=19	=19
+i6	4C	4A	4e	4a
+iv	4D	4d	4f	4a
+V	4E	4B	4e	4g#
+=20	=20	=20	=20	=20
+i;	2AA;	2c;	2e;	2a;
+V	4E	4e	4g#	4b
+=21	=21	=21	=21	=21
+i	4A	4e	4a	4cc
+VI6	4A	4f	4a	4cc
+V6/III	4B	4d	4gnX	4dd
+=22	=22	=22	=22	=22
+III	2c	2c	2g	2ee
+e:ii%65	4A	4c	4f#	4ee
+=23	=23	=23	=23	=23
+V(54)	2B	2B	2f#	2ee
+V7	4BB	4B	4a	4dd#
+=24	=24	=24	=24	=24
+I;	2.E;	2.B;	2.g#;	2.ee;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

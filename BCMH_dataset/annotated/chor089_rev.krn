@@ -1,0 +1,91 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	O Haupt voll Blut und Wunden
+!!!SCT:	BWV 244/62
+!!!PC#:	89
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*b:	*b:	*b:	*b:	*b:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100	*MM100
+i	4B	4B	4d	4f#
+=1	=1	=1	=1	=1
+VI	8GL	8BL	8dL	8bL
+D:vii%43	8GJ	8c#J	8eJ	8bJ
+I6	4F#	4d	4f#	4a
+ii	8EL	8eL	8BL	8gL
+viio6	8EJ	8eJ	8c#J	8gJ
+I	4D	4A	4d	4f#
+=2	=2	=2	=2	=2
+V65/V	4GG#	4B	4d	4e
+V	4AA	4A	4c#	4e
+I;	4D;	4A;	4d;	4f#;
+b:V6	4AA#	4c#	4f#	4cc#
+=3	=3	=3	=3	=3
+i	4BB	4B	4f#	4dd
+ii%65	4E	4B	4gnX	4cc#
+V(64)	4F#	4B	4f#	4dd
+V7	4FF#	4A#	4e	4cc#
+=4	=4	=4	=4	=4
+i;	2.BB;	2.F#;	2.d;	2.b;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B
+i	4B	4B	4f#	4dd
+=5	=5	=5	=5	=5
+V6/V	4E#	4G#	4g#	4cc#
+v	4F#	4c#	4f#	4a
+G:V2/IV	4F	4d	4g	4b
+viio6/V	4E	4e	4g	4cc#
+=6	=6	=6	=6	=6
+V65	4F#XL	4cJ	4aL	4ddL
+i	4GnX	4B-	4g	4dd
+V;	4D;	4A;	4f#;	4dd;
+V7	4D	4cnX	4f#	4a
+=7	=7	=7	=7	=7
+vi6	4G	4BnX	4e	4b
+e:viio65	4F#	4c	4d#	4a
+V65	4D#	4B	4f#	4a
+i	4E	4B	4e	4g
+=8	=8	=8	=8	=8
+V;	2.BB;	2.B;	2.d#;	2.f#;
+A:V65	4G#	4e	4b	4dd
+=9	=9	=9	=9	=9
+I	4A	4e	4a	4cc#
+I6	8c#L	8eL	8aL	8eeL
+V65/IV	8c#J	8gJ	8aJ	8eeJ
+IV6	8F#L	8f#L	8aL	8ddL
+vii%7	8G#J	8f#J	8bJ	8ddJ
+I	4A	4e	4cc#	4cc#
+=10	=10	=10	=10	=10
+V65/V	4D#	4f#	4a	4b
+V	4E	4e	4g#	4b
+I;	4AA;	4e;	4a;	4cc#;
+IV	4D	4A	4d	4f#
+=11	=11	=11	=11	=11
+D:V65	4C#	4A	4e	4gnX
+I	4D	4A	4d	4f#
+b:iv6/iv	4C	4A	4e	4e
+iio6/iv	4AA	4cnX	4f#	4a
+=12	=12	=12	=12	=12
+V65	4AA#	4c#X	4e	4f#
+i	4BB	4B	4d	4f#
+V;	4FF#;	4A#X;	4c#;	4f#;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

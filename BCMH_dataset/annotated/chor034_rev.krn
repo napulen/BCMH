@@ -1,0 +1,114 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Erbarm dich mein, o Herre Gott
+!!!SCT:	BWV 305
+!!!PC#:	34
+!!!AGN:	chorale
+**harm	**kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*	*k[]	*k[]	*k[]	*k[]
+*a:	*a:	*a:	*a:	*a:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100	*MM100
+v	4E	4G	4B	4e
+=1	=1	=1	=1	=1
+v	4E	4B	4e	4g
+v2	4D	4B	4e	4g
+i6	4C	4c	4e	4a
+ii%2	8AL	8dL	8fL	8bL
+V65	8G#	8dJ	8eJ	8bJ
+=2	=2	=2	=2	=2
+i	8AL	8cL	8eL	8ccL
+i6	8CJ	8eJ	8aJ	8ccJ
+ii%65	8DL	8fL	8aL	8bL
+V7	8EJ	8dJ	8g#	8bJ
+i;	4AA;	4c;	4e;	4a;
+v	4E	4B	4e	4g
+=3	=3	=3	=3	=3
+C:I	8CL	8eL	8gL	8ccL
+vi6	8CJ	8eJ	8aJ	8ccJ
+vii%65	8DL	8fL	8aL	8bL
+V	8GJ	8dJ	8gJ	8bJ
+I6	8EL	8cL	8gL	8ccL
+I	8CJ	8cJ	8gJ	8ccJ
+IV	4F	4c	4f	4a
+=4	=4	=4	=4	=4
+I	8CL	8cL	8eL	8gL
+V7/IV	8CJ	8B-J	8eJ	8gJ
+vi/IV	4D	4A	4d	4f
+a:V;	4E;	4G#;	4B;	4e;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B
+i	4A	4A	4c	4e
+=5	=5	=5	=5	=5
+VI	4F	4c	4f	4a
+iv	4D	4d	4f	4a
+C:V65	8BBL	8dL	8fL	8gL
+I	8CJ	8cJ	8eJ	8gJ
+G:IV2	8BBL	8GL	8eL	8ccL
+viio6	8AAJ	8AJ	8f#J	8ccL
+=6	=6	=6	=6	=6
+I	8GGL	8DL	8gL	8bL
+I6	8BBJ	8dJ	8gJ	8bJ
+ii65	8CL	8eL	8gL	8aL
+V7	8DJ	8cJ	8f#	8aJ
+I;	4GG;	4B;	4d;	4g;
+C:I	4C	4c	4e	4g
+=7	=7	=7	=7	=7
+vi	4AA	4c	4e	4cc
+I	8CL	8cL	8eL	8gL
+vii%7/IV	8EEJ	8B-J	8dJ	8gJ
+IV	4FF	4A	4c	4a
+d:V	4AA	4A	4c#	4e
+=8	=8	=8	=8	=8
+V6	8C#L	8AL	8eL	8aL
+V7	8AAJ	8AJ	8eJ	8gJ
+i	4D	4A	4d	4f
+V;	4AA;	4A;	4c#;	4e;
+v	4A	4A	4c	4e
+=9	=9	=9	=9	=9
+C:IV	4F	4A	4c	4a
+viio7/V	8F#L	8cL	8e-L	8aL
+V65/V	8F#J	8cJ	8d	8aJ
+V7	4G	4B	4d	4f
+vi	4A	4c	4c	4e
+=10	=10	=10	=10	=10
+IV	8FL	8AL	8cL	8fL
+ii7	8DJ	8AJ	8cJ	8fJ
+V7	4GG	4F	4B	4d
+I;	4C;	4E;	4G;	4c;
+I	4C	4E	4G	4c
+=11	=11	=11	=11	=11
+V6	4BB	4G	4d	4g
+I	4C	4c	4e	4g
+vi	4AA	4e	4c	4a
+V	8GGL	8gL	8dL	8bL
+V2	8FFJ	8gJ	8dJ	8bJ
+=12	=12	=12	=12	=12
+I6	4EE	4G	4e	4cc
+I	4CC	4c	8eJ	4g
+IV	8FFL	8cL	8fL	8aL
+IV6	8AAJ	8cJ	8fJ	8aJ
+I	8CL	8cL	8eL	8gL
+V7/IV	8CJ	8B-J	8eJ	8gJ
+=13	=13	=13	=13	=13
+vi/IV	4D	4A	4d	4f
+a:iv7	4D	4A	4c	4f
+V;	4E;	4G#;	4B;	4e;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

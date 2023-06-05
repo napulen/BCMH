@@ -1,0 +1,102 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Wie sch&ouml;n leuchtet der Morgenstern
+!!!SCT:	BWV 36(1) & 36(2)/4
+!!!PC#:	86
+!!!AGN:	chorale
+!!!ONB: Same as No. 195 and No. 305
+**harm	 **kern	**kern	**kern	**kern
+*	*ICvox	*ICvox	*ICvox	*ICvox
+*	*Ibass	*Itenor	*Ialto	*Isoprn
+*	*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A
+*	*	*oclefC4	*oclefC3	*oclefC1
+*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*D:	*D:	*D:	*D:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100	*MM100
+I	4D	4F#	4A	4d
+=1	=1	=1	=1	=1
+V6	4C#	4E	4A	4a
+I	8DL	8DL	8AL	8f#L
+V6	8C#J	8EJ	8AJ	8eJ
+vi	8BBL	8F#L	8BL	8dL
+A:viio6	8BBJ	8G#J	8BJ	8dJ
+vi	4F#	4A	4c#	4a
+=2	=2	=2	=2	=2
+ii65	4D	4A	4f#	8.bL
+V	4E	4G#	4e	4b
+I;	4AA;	4c#;	4e;	4a;
+D:I	4D	4d	4f#	4a
+=3	=3	=3	=3	=3
+IV	4G	4d	4g	4b
+viio6	4E	4e	4g	4cc#
+I6	8F#L	8AL	8f#L	8ddL
+A:vii%7	8G#J	8BJ	8f#J	8ddJ
+I	4A	4c#	4e	4cc#
+=4	=4	=4	=4	=4
+ii65	4D	4F#	4a	4b
+V7	4E	4d	4g#	4b
+I;	4AA;	4c#;	4e;	4a;
+D:I	4D	4A	4d	4f#
+=5	=5	=5	=5	=5
+IV	4GnX	4GnX	4d	4b
+I6	4F#	4A	4d	4a
+ii7	8EL	8BL	8dL	8gL
+viio6	8EJ	8GJ	8c#J	8gJ
+I	4D	4A	4d	4f#
+=6	=6	=6	=6	=6
+V7	2AA	2G	2c#	2e
+I;	4D;	4F#;	4A;	4d;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B
+.	4r	4ry	4ry	4r
+=7	=7	=7	=7	=7
+V6	2C#	2A	2e	2a
+I;	2D;	2A;	2d;	2f#;
+=8	=8	=8	=8	=8
+V	2AA	2c#	2e	2a
+I;	2D;	2A;	2d;	2f#;
+=9	=9	=9	=9	=9
+I	4D	4A	4d	4f#
+I6	4F#	4A	4d	4f#
+V	4A	4A	4c#	4e
+V2	4G	4A	4c#	4e
+=10	=10	=10	=10	=10
+I6	4F#	4A	4d	4f#
+I6	4F#	4A	4d	4f#
+V	4AA	4A	4c#	4e
+viio6/ii	4F#	4A	4d#	4f#
+=11	=11	=11	=11	=11
+ii	8EL	8BL	8eL	8gL
+viio6	8EJ	8c#J	8eJ	8gJ
+vi	4B	4d	4dnX	4f#
+ii65	4G	4d	4B	4e
+V7	4A	4G	4c#	4e
+=12	=12	=12	=12	=12
+I;	2D;	2F#;	2A;	2d;
+b:i	4BB	4F#	4f#	4dd
+V7	4FF#	4A#	4e	4cc#
+=13	=13	=13	=13	=13
+VI	4GG	4B	4d	4b
+v6	4AA	4c#	4f#	4a
+D:IV65	8BBL	8dL	8f#L	8gL
+viio6	8C#J	8eJ	8eJ	8gJ
+I	4D	4A	4d	4f#
+=14	=14	=14	=14	=14
+ii65	4GG	4B	4d	4e
+V7	4AA	4G	4c#	4e
+I;	4DD;	4F#;	4A;	4d;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22
