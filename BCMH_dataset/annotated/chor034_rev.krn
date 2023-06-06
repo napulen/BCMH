@@ -29,7 +29,7 @@ V65	8G#	8dJ	8eJ	8bJ
 i	8AL	8cL	8eL	8ccL
 i6	8CJ	8eJ	8aJ	8ccJ
 ii%65	8DL	8fL	8aL	8bL
-V7	8EJ	8dJ	8g#	8bJ
+V7	8EJ	8dJ	8g#J	8bJ
 i;	4AA;	4c;	4e;	4a;
 v	4E	4B	4e	4g
 =3	=3	=3	=3	=3
@@ -58,7 +58,7 @@ viio6	8AAJ	8AJ	8f#J	8ccL
 I	8GGL	8DL	8gL	8bL
 I6	8BBJ	8dJ	8gJ	8bJ
 ii65	8CL	8eL	8gL	8aL
-V7	8DJ	8cJ	8f#	8aJ
+V7	8DJ	8cJ	8f#J	8aJ
 I;	4GG;	4B;	4d;	4g;
 C:I	4C	4c	4e	4g
 =7	=7	=7	=7	=7
@@ -76,7 +76,7 @@ v	4A	4A	4c	4e
 =9	=9	=9	=9	=9
 C:IV	4F	4A	4c	4a
 viio7/V	8F#L	8cL	8e-L	8aL
-V65/V	8F#J	8cJ	8d	8aJ
+V65/V	8F#J	8cJ	8dJ	8aJ
 V7	4G	4B	4d	4f
 vi	4A	4c	4c	4e
 =10	=10	=10	=10	=10
@@ -93,7 +93,7 @@ V	8GGL	8gL	8dL	8bL
 V2	8FFJ	8gJ	8dJ	8bJ
 =12	=12	=12	=12	=12
 I6	4EE	4G	4e	4cc
-I	4CC	4c	8eJ	4g
+I	4CC	4c	4eJ	4g
 IV	8FFL	8cL	8fL	8aL
 IV6	8AAJ	8cJ	8fJ	8aJ
 I	8CL	8cL	8eL	8gL
