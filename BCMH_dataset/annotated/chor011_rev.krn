@@ -27,12 +27,12 @@ I	4F	4f	4a	4ff
 IV;	4B-;	4f;	4b-;	4dd;
 C:V6/V	4F#	4A	4a	4dd
 =3	=3	=3	=3	=3
-V	8GL	8BnL	8gL	4ddL
-V2	8FnJ	8BnJ	8gJ	4ddJ
+V	8GL	8BnL	8gL	8ddL
+V2	8FnJ	8BnJ	8gJ	8ddJ
 I6	4E	4c	4g	4cc
 IV	4F	4f	4a	4cc
 V	4G	4d	4g	4b
-=4	=4	=4	=4
+=4	=4	=4	=4	=4
 I	2C;	2e;	2g;	2cc;
 .	4r	4ry	4ry	4r
 G:I	4GG	4B	4g	4dd
@@ -83,7 +83,7 @@ vi7	4A	4e	4g	4cc
 V6	2B	2d	2g	2dd
 iii6	4G	4g	4b	4ee
 =15	=15	=15	=15	=15
-IV6	2A	2c	4cc	2ff
+IV6	2A	2c	2cc	2ff
 vii%7	4B	4d	4a	4ff
 =16	=16	=16	=16	=16
 I;	2c;	2e;	2g;	2ee;
