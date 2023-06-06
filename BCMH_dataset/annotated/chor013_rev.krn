@@ -17,7 +17,7 @@
 *a:	*a:	*a:	*a:	*a:
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *met(c)	*met(c)	*met(c)	*met(c)	*met(c)
-**MM100	*MM100	*MM100	*MM100	*MM100
+*MM100	*MM100	*MM100	*MM100	*MM100
 i	4A	4A	4e	4cc
 =1	=1	=1	=1	=1
 C:I6	4E	4c	4e	4g
@@ -38,7 +38,7 @@ I	4C	4c	4g	4ee
 V7	4G	4B	4f	4dd
 vi	4A	4A	4e	4cc
 a:v	4E	4G	4e	4b
-v2	4D	4B	4e	4g	
+v2	4D	4B	4e	4g
 =5	=5	=5	=5	=5
 i6	4C	4c	4e	4a
 viio6	8BL	8dL	8g#L	8bL
