@@ -11,10 +11,10 @@ m2 I b2 V7/V b3 V b4 vi
 m3 b: viio6 b2 i6 b3 v b4 VI
 m4 D: viio6 b1.5 I b2 V7 b3 I b4 I
 m5 iii b2 A: V7 b2.5 V2 b3 I6 b3.5 IV b4 V
-m6 I b3 D: I6 b3.5 I b4 I
-m7 IV IV b2 V b2 V b3 I b3 I b4 A: vi b4 A: vi
-m8 ii b1.25 viio6 b1.5 I6 b1.25 viio6 b2 ii65 b2.5 V b3 I b3 I b4 e: i b4 e: i
-m9 III III b2 viio6 b2 viio6 b3 V65 b3 V65 b4 i b4 i
-m10 V V b2 D: vi b2 D: vi b3 iii b3 iii b4 IV b4 IV
-m11 I I b2 IV6 b2 IV6 b3 V65 b3 V65 b4 I b4 I
-m12 ii65 ii65 b2 V7 b2 V7 b3 I b3 I
+m6 I b3 D: I6 b4 I
+m7 IV b2 V b3 I b4 A: vi
+m8 ii b1.25 viio6 b1.5 I6 b2 ii65 b2.5 V b3 I b4 e: i
+m9 III b2 viio6 b3 V65 b4 i
+m10 V b2 D: vi b3 iii b4 IV
+m11 I b2 IV6 b3 V65 b4 I
+m12 ii65 b2 V7 b3 I
