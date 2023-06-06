@@ -14,9 +14,9 @@ m5 IV6 b2 C: V b3 I b4 vi
 m6 a: V b2 V b3 i b4 i
 m7 C: V65/V b2 V b3 I b4 IV
 m8 viio6 b2 a: V7 b3 i b4 V
-m9 i b1.5 iio6 b2 v7 b2.5 VI b3 VI b3.5 d: viio6 b4 d: viio6
-m10 V65 V65 b2 i b2 i b3 V b3 V b4 i b4 i
-m11 VI b1.5 i64 b2 viio6/III b2 viio6/III b3 III7 b3 III7 b4 VI b4 VI
-m12 iio6 iio6 b2 V b2 V b3 i b3 i b4 C: V6/V b4 C: V6/V
-m13 V V b2 V6 b2.5 V b3 I b3 I b4 ii6 b4 ii6
-m14 a: Cad64 a: Cad64 b2 V7 b2 V7 b3 I b3 I
+m9 i b2 iio6 b2.5 v7 b3 VI b4 d: viio6
+m10 V65 b2 i b3 V b4 i
+m11 VI b1.5 i64 b2 viio6/III b3 III7 b4 VI
+m12 iio6 b2 V b3 i b4 C: V6/V
+m13 V b2 V6 b2.5 V b3 I b4 ii6
+m14 a: Cad64 b2 V7 b3 I

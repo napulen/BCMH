@@ -21,7 +21,7 @@ m12 V65/V b2 V b3 I b4 viio6
 m13 I6 b1.5 A: viiø7 b2 I b3 viio7/vi b4 vi
 m14 V65/V b2 V b3 I b4 IV
 m15 b: viio6 b2 i b3 V b4 V65
-m16 VI6 b2 D: V6 b3 I b3.5 I6 b4 I6
-m17 b: IV65 b: IV65 b2 V6 b2 V6 b3 i b3 i b4 D: I6 b4.5 V65/IV
-m18 IV IV b2 IV6 b2 IV6 b3 V65 b3 V65 b4 I b4 I
-m19 V V b2 V b2 V b3 I b3 I
+m16 VI6 b2 D: V6 b3 I b4 I6
+m17 b: IV65 b2 V6 b3 i b4 D: I6 b4.5 V65/IV
+m18 IV b2 IV6 b3 V65 b4 I
+m19 V b2 V b3 I

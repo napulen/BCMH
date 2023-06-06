@@ -12,7 +12,7 @@ m3 vi b1.5 D: viio6 b2 I b3 ii6 b4 V7
 m4 I b4 G: V65
 m5 I b2 V43 b3 I6 b4 vi
 m6 I6 b2 ii6 b3 V b4 iii
-m7 IV65 b1.5 viio b2 I b2.5 I b3 V b3.5 V b4 e: viio7 b4.5 e: viio7
-m8 i i b2 i6 b2 i6 b3 v b3 v b4 G: I b4 G: I
-m9 IV6 IV6 b2 ii65 b2 ii65 b3 Cad64 b3 Cad64 b4 V7 b4 V7
-m10 I I
+m7 IV65 b1.5 viio b2 I b3 V b4 e: viio7
+m8 i b2 i6 b3 v b4 G: I
+m9 IV6 b2 ii65 b3 Cad64 b4 V7
+m10 I

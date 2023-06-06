@@ -34,7 +34,7 @@ I64	8B-L	8e-L	8e-L	8gL
 ii65	8A-J	8cJ	8e-J	8fJ
 =4	=4	=4	=4	=4
 V	4B-	4B-	4d	4f
-V7	4BB-	8A-	4d	4f
+V7	4BB-	4A-	4d	4f
 I;	2E-;	2G;	2B-;	2e-;
 =5	=5	=5	=5	=5
 I	4E-	4B-	4e-	4g
@@ -98,7 +98,7 @@ I64	8BB-L	8E-L	8gL	8gL
 ii%65	8AA-J	8E-J	8cJ	8fJ
 =16	=16	=16	=16	=16
 V	4BB-	4B-	4d	4f
-V7	4BB-	8A-	4d	4f
+V7	4BB-	4A-	4d	4f
 I;	2EE-;	2G;	2B-;	2e-;
 ==	==	==	==	==
 *-	*-	*-	*-	*-
