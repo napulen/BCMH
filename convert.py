@@ -1,5 +1,3 @@
-# This is a commodity script
-
 import os
 import re
 
