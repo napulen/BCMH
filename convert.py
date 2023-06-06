@@ -34,7 +34,11 @@ def _preprocessHumdrum(path):
     with open(path) as fd:
         data = fd.read()
     for line in data.splitlines():
-        if line.startswith("**harm"):
+        modified = re.sub(r"\*([A-Ga-g#-]):dor(\t?)", r"*\1:\2", line)
+        if modified != line:
+            # this simplifies "dorian" keys as just minor mode, otherwise, roman numerals mess up
+            data = data.replace(line, modified)
+        elif line.startswith("**harm"):
             spines = line.count("**kern")
             staffslist = "*staff1/2/3/4"
             staffs = "\t".join([f"*staff{i}" for i in range(1, spines + 1)])
@@ -77,21 +81,23 @@ def makeRntxtBody(offs):
             line = f"m{m} "
         if ts:
             body += f"\nTime Signature: {ts}\n\n"
-        beat = _formatBeatNumber(b) 
+        beat = _formatBeatNumber(b)
         if key:
             line += f"{beat}{key}: {rn} "
         else:
             line += f"{beat}{rn} "
         # if re.match(r"m(\d)+ $", line):
         #     continue
-    if line: 
+    if line:
         body += f"{line[:-1]}\n"
     return body
 
 
 def parseBCMH(a):
     parsed = {}
-    offsets = {o.offset: (o.measureNumber, o.beat) for o in a.flat.notesAndRests}
+    offsets = {
+        o.offset: (o.measureNumber, o.beat) for o in a.flat.notesAndRests
+    }
     tss = {
         ts.offset: ts.ratioString
         for ts in a.flat.getElementsByClass("TimeSignature")
@@ -129,15 +135,17 @@ def parseBCMH(a):
 if __name__ == "__main__":
     root_analysis = "BCMH_dataset/annotated"
     root_score = "BCMH_dataset/original_KernScores"
+    root_rntxt = "BCMH_dataset/rntxt"
     rns = []
     for f in sorted(os.listdir(root_analysis)):
         print(f)
+        if "087" in f:
+            print()
         a = _preprocessHumdrum(f"{root_analysis}/{f}")
         parsed = parseBCMH(a)
         rntxt = makeRntxtHeader(a.metadata)
         rntxt += makeRntxtBody(parsed)
-        print(rntxt)
-
-
-# rns = set(rns)
-# print(len(rns), rns)
+        if not os.path.exists(root_rntxt):
+            os.makedirs(root_rntxt)
+        with open(f"{root_rntxt}/{f.replace('.krn', '.rntxt')}", "w") as fd:
+            fd.write(rntxt)
